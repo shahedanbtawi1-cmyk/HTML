@@ -1,0 +1,36 @@
+selector {
+    property: value;
+    propertytwo: value;
+
+}
+.paragraph01{
+    color:gold;
+}
+.paragraph03{
+    color: white;
+  background-image: url(/Screenshot\ 2026-02-27\ 064524.png);
+}
+.text01{
+    padding-right: 30% scroll;
+    border: 3px solid gray;
+margin: 10px;
+    width: 70%;}
+
+.text03{
+    
+    padding-right: 30% scroll;
+    border: 2px solid gray;
+width: 70%;
+    margin : 10px;}
+.text02 p{
+    padding-right: 30% scroll;
+     border: 2px dashed red  ;
+    margin: 10px;
+    width: 70%;}
+.text02 {padding-right: 30% scroll;
+     border: 2px dashed grey  ;
+    margin: 10px;
+    width: 70%;}
+
+.text03 p,
+.text03 h2 { color: blueviolet ;}
