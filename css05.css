@@ -1,0 +1,32 @@
+selector {
+    property: value;
+    propertytwo: value;
+
+}
+.img{
+    position: fixed ;
+   right: 0px;
+    float: right;
+    margin-top: 10px;
+  
+    width : 200px;
+}
+.A{
+
+    padding: 25%;
+    background-position: left;
+    margin: 0 50% 0 0;
+    background-color: rgb(255, 204, 0) ;
+    position: absolute ;
+   }
+.B{
+    padding: 25%;
+    background-position: right;
+    margin: 0 0 0 50%;
+    background-color: rgb(47, 0, 255) ;
+    position: absolute ;
+}
+    
+
+
+    
